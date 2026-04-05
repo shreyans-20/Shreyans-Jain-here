@@ -1,5 +1,4 @@
 # Hey there, I'm so glad you're here!
-
 Welcome to my little corner of GitHub!
 
 I'm passionate about turning data into decisions, picking up new analytical skills,
