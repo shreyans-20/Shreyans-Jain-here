@@ -20,8 +20,8 @@ You bring the questions, I'll bring the insights 😄💻
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreyansjainn)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Shreyans-Jain-s-Portfolio-2e748001fb70801e9400d5a0adc59544)
 
 
 ## 💻 Tech Stack:
@@ -37,6 +37,7 @@ You bring the questions, I'll bring the insights 😄💻
 
 - 📊 Power BI dashboards across hotel, flight, and AI productivity analytics
 - 🐍 Strengthening Python for data analysis and automation
+- 📝 Real-world reports — Six Sigma & Lean process improvement, Research Reports
 - 📚 BBA in Business Analytics — where theory meets real-world impact
 
 
