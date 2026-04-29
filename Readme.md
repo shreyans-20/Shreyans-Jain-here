@@ -40,6 +40,8 @@ I build Power BI dashboards that track real business decisions — hotel demand,
 
 ### 🔬 Statistical Tools
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AMOS](https://img.shields.io/badge/AMOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![NVivo](https://img.shields.io/badge/NVivo-7B2D8B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
 
 ### 🏅 Certifications
 ![IBM](https://img.shields.io/badge/IBM%20Data%20Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
