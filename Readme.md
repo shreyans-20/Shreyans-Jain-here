@@ -1,64 +1,68 @@
-# Hey there, I'm so glad you're here!
-Welcome to my little corner of GitHub!
+# Shreyans Jain
 
-I'm passionate about turning data into decisions, picking up new analytical skills,
-and making sense of the numbers that drive real business impact.
-Here, you'll find:
+**Business Analyst · Power BI · Data Analytics**  
+BBA Business Analytics @ V.M. Patel College of Management Studies, Ganpat University
 
-- 📊 Dashboards I'm building with Power BI
-- 🐍 Python & SQL projects I'm working through
-- 💡 Analytical thinking applied to real-world problems
-- 🌱 Bits of growth for anyone navigating the world of data & business
+---
 
-Whether you're here to explore my work, get inspired, or just see how someone
-else is figuring it all out - you're in the right place! 🌟
+I build Power BI dashboards that track real business decisions — hotel demand, flight spend, and route-level travel intelligence. Interned at TripTrip India (B2B corporate travel platform) where I reduced manual reporting effort by 40% through automated dashboards.  
+9.10 SGPA. Certified by IBM, Microsoft, and Google in Data Analytics.
 
-**Let's connect, learn, and grow together - one dataset at a time.**
-You bring the questions, I'll bring the insights 😄💻
+---
 
+## 🌐 Socials
 
-## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansjainn/)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Shreyans-Jain-s-Portfolio-2e748001fb70801e9400d5a0adc59544)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shreyansjainn)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Shreyans-Jain-s-Portfolio-2e748001fb70801e9400d5a0adc59544)
+---
 
-
-
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ### 🐍 Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1D6FAB?style=for-the-badge&logo=sas&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-1572B6?style=for-the-badge&logo=sas&logoColor=white)
 
 ### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🔧 Data & Modeling
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🔬 Statistical Tools
 ![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![AMOS](https://img.shields.io/badge/AMOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![NVivo](https://img.shields.io/badge/NVivo-6E2C8A?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
 
-## 🚀 What I'm currently building:
+### 🏅 Certifications
+![IBM](https://img.shields.io/badge/IBM%20Data%20Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Johns Hopkins](https://img.shields.io/badge/Johns%20Hopkins-002D72?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
 
-- 📊 Power BI dashboards across hotel, flight, and AI productivity analytics
-- 🐍 Strengthening Python for data analysis and automation
-- 📝 Real-world reports - Six Sigma & Lean process improvement, Research Reports
-- 📚 BBA in Business Analytics - where theory meets real-world impact
+---
 
+## 📁 What's here
 
-*Currently building. Constantly upskilling. Always open to conversations
-around analytics, strategy, and growth.* ✨
+| Project | Tools | Description |
+|---|---|---|
+| [City-Level Hotel Insight Dashboard](https://github.com/shreyans-20/City-Level-Hotel-Insight-Dashboard) | Power BI · DAX · Power Query | Hotel demand tracking by city — built during TripTrip internship |
+| [Flight Spend & Cost Analysis Dashboard](https://github.com/shreyans-20/Flight-Spend-Cost-Analysis-Dashboard) | Power BI · DAX · Power Query | Corporate flight spend analysis with route-level cost breakdown |
+| [Corporate Travel Demand & Route Intelligence](https://github.com/shreyans-20/Corporate-Travel-Demand-Route-Intelligence-Dashboard) | Power BI · DAX · Power Query | Route-level travel demand dashboard for B2B corporate travel |
+| [SQC & Six Sigma — Bank Service Process Analysis](https://github.com/shreyans-20/Statistical-Quality-Control-Six-Sigma-Bank-Service-Process-Analysis) | Power BI · Excel · SQC | Control charts and process capability analysis on bank customer wait times |
+| AI Tools & Productivity Study | SPSS · Excel · Python | n=388, regression + reliability analysis, North Gujarat |
+
+---
+
+## 🚀 Currently building
+
+- Strengthening Python for automation and end-to-end data pipelines
+- Business Analytics capstone — regression, ANOVA, and logistic modeling on real datasets
+- Targeting **Business Analyst / Power BI Developer / MIS Analyst** roles (fresher) — open to opportunities
