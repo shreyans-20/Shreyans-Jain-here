@@ -19,47 +19,71 @@ I build Power BI dashboards that track real business decisions — hotel demand,
 
 ## 💻 Tech Stack
 
-### 🐍 Programming & Analytics
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1572B6?style=for-the-badge&logo=sas&logoColor=white)
-
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📊 BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 🔧 Data & Modeling
-![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🔬 Statistical Tools
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![AMOS](https://img.shields.io/badge/AMOS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![NVivo](https://img.shields.io/badge/NVivo-7B2D8B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
-
-### 🏅 Certifications
-![IBM](https://img.shields.io/badge/IBM%20Data%20Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Johns Hopkins](https://img.shields.io/badge/Johns%20Hopkins-002D72?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)
+| Category | Tools |
+|---|---|
+| **Programming & Analytics** | Python · Pandas · NumPy · Matplotlib · Seaborn · SAS |
+| **Database** | SQL |
+| **BI & Visualization** | Power BI · Tableau · Excel |
+| **Data & Modeling** | Power Query (M) · DAX · Data Cleaning · Data Modelling |
+| **Statistical Tools** | SPSS · AMOS · NVivo |
+| **Certifications** | IBM Data Analyst · Google Data Analytics · Microsoft Certified · Johns Hopkins |
 
 ---
 
-## 📁 What's here
+## 📁 Featured Projects
 
-| Project | Tools | Description |
-|---|---|---|
-| [City-Level Hotel Insight Dashboard](https://github.com/shreyans-20/City-Level-Hotel-Insight-Dashboard) | Power BI · DAX · Power Query | Hotel demand tracking by city — built during TripTrip internship |
-| [Flight Spend & Cost Analysis Dashboard](https://github.com/shreyans-20/Flight-Spend-Cost-Analysis-Dashboard) | Power BI · DAX · Power Query | Corporate flight spend analysis with route-level cost breakdown |
-| [Corporate Travel Demand & Route Intelligence](https://github.com/shreyans-20/Corporate-Travel-Demand-Route-Intelligence-Dashboard) | Power BI · DAX · Power Query | Route-level travel demand dashboard for B2B corporate travel |
-| [SQC & Six Sigma — Bank Service Process Analysis](https://github.com/shreyans-20/Statistical-Quality-Control-Six-Sigma-Bank-Service-Process-Analysis) | Power BI · Excel · SQC | Control charts and process capability analysis on bank customer wait times |
-| AI Tools & Productivity Study | SPSS · Excel · Python | n=388, regression + reliability analysis, North Gujarat |
+### [DataLens — EDA Studio](https://github.com/shreyans-20/Data-Lens-Eda)
+Full-stack EDA web app — upload any CSV or Excel file and get a complete analysis dashboard instantly with zero setup.
+
+- **Tech:** Python · Flask · Pandas · NumPy · Chart.js · Vanilla JS · Vercel
+- Built auto column profiling that detects numeric, categorical, and datetime columns and computes stats, outliers, and correlations in a single pass.
+- Includes a Visualization Builder (8 chart types), ML prep export (encoding + standardization), and auto-generated HTML EDA reports.
+- Supports Star Schema detection — auto-joins fact and dimension tables from multi-sheet Excel files.
+
+---
+
+### [City-Level Hotel Insight Dashboard](https://github.com/shreyans-20/City-Level-Hotel-Insight-Dashboard)
+Hotel demand tracking dashboard built during the TripTrip India internship to replace manual reporting.
+
+- **Tech:** Power BI · DAX · Power Query
+- Automated city-level demand tracking, reducing manual reporting effort by 40%.
+- Designed DAX measures to surface occupancy trends and demand shifts across hotel segments.
+
+---
+
+### [Flight Spend & Cost Analysis Dashboard](https://github.com/shreyans-20/Flight-Spend-Cost-Analysis-Dashboard)
+Corporate flight spend analysis with route-level cost breakdown for a B2B travel platform.
+
+- **Tech:** Power BI · DAX · Power Query
+- Built route-level cost intelligence to identify high-spend corridors and booking inefficiencies.
+- Enabled stakeholders to make data-driven decisions on travel policy and vendor selection.
+
+---
+
+### [Corporate Travel Demand & Route Intelligence](https://github.com/shreyans-20/Corporate-Travel-Demand-Route-Intelligence-Dashboard)
+Route-level travel demand dashboard for corporate travel planning and trend analysis.
+
+- **Tech:** Power BI · DAX · Power Query
+- Mapped travel demand patterns across routes to support procurement and capacity planning decisions.
+- Integrated multi-source data into a unified model using Power Query transformations.
+
+---
+
+### [SQC & Six Sigma — Bank Service Process Analysis](https://github.com/shreyans-20/Statistical-Quality-Control-Six-Sigma-Bank-Service-Process-Analysis)
+Statistical process control analysis applied to bank customer wait times.
+
+- **Tech:** Power BI · Excel · SQC
+- Built control charts (X-bar, R-chart) to monitor service process stability over time.
+- Conducted process capability analysis to identify out-of-control conditions and improvement areas.
+
+---
+
+### [Measuring the Impact of AI Tools on Students' Productivity](https://github.com/shreyans-20/Measuring-the-Impact-of-Artificial-Intelligence-Tools-on-Students-Productivity)
+Primary research study measuring how AI tool adoption affects academic productivity among students in North Gujarat.
+
+- **Tech:** SPSS · Python · Excel
+- Collected and analyzed n=388 survey responses using regression analysis, reliability testing (Cronbach's Alpha), and descriptive statistics.
+- Identified key predictors of productivity gain and validated the measurement model using factor analysis.
 
 ---
 
